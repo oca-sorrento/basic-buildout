@@ -62,3 +62,5 @@ target/
 .ipynb_checkpoints
 
 bin/
+etc/
+upgrade.py
